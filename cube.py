@@ -1,5 +1,5 @@
 def Cube(n):
-   print(n**3) if (n>=0) else print("Error")
+   print(n**3)  
 n = int(input())
 #calling function
 Cube(n)
