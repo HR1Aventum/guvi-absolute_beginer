@@ -1,7 +1,7 @@
 #func to remove whitespace
 def re_Spaces(string):
     string = string.replace(' ','')
-    print(string)
+    print(len(string))
 
 
 
